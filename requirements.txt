@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gspread
+oauth2client
+python-dotenv
+Flask
+gspread==6.0.2
+google-auth==2.29.0
+gunicorn
